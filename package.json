@@ -1,0 +1,22 @@
+{
+  "name": "manishpatil",
+  "version": "1.0.0",
+  "description": "Manish Patil",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manish Patil",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PATILMANISH/manishpatil.git"
+  },
+  "keywords": [
+    "Manish"
+  ],
+  "bugs": {
+    "url": "https://github.com/PATILMANISH/manishpatil/issues"
+  },
+  "homepage": "https://github.com/PATILMANISH/manishpatil#readme"
+}
